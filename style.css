@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  header img {
+    width: 100px;
+  }
+  
+  header form {
+    float: right;
+  }
+  
+  header input {
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  header button {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: #333;
+  }
+  
+  main {
+    display: flex;
+  }
+  
+  section.profile {
+    width: 20%;
+    background-color: #ddd;
+    padding: 10px;
+  }
+  
+  section.profile img {
+    width: 100px;
+    border-radius: 50%;
+  }
+  
+  section.profile h2 {
+    margin-top: 10px;
+  }
+  
+  section.profile a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  section.posts {
+    width: 80%;
+    padding: 10px;
+  }
+  
+  /* إضف هنا أكواد تصميم المنشورات */
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
